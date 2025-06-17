@@ -2,7 +2,7 @@ module.exports = {
   title: "Muneo",
   description: "안녕하세요, Muneo 기술 블로그입니다.",
   author: "Muneo",
-  siteUrl: "https://devhudi.github.io/gatsby-starter-hoodie/",
+  siteUrl: "https://if-muneo.github.io/muneo-tech/",
   links: {
     github: "https://github.com/if-muneo/muneo-be"
   },
