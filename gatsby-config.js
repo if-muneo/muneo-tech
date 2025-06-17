@@ -2,12 +2,12 @@ const blogConfig = require("./blog-config")
 const { title, description, author, siteUrl } = blogConfig
 
 module.exports = {
-  pathPrefix: "/muneo-tech",
+  pathPrefix: "/muneo-tech", // ✅ repository 이름
   siteMetadata: {
     title: `muneo-tech`,
     description: `muneo 기술 블로그`,
     author: `@if-muneo`,
-    siteUrl: "https://if-muneo.github.io",
+    siteUrl: "https://if-muneo.github.io/muneo-tech", // ✅ 반드시 전체 주소!
   },
   plugins: [
     `gatsby-plugin-catch-links`,
