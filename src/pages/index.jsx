@@ -13,7 +13,7 @@ import Tab from "components/Tab"
 import { title, description, siteUrl } from "../../blog-config"
 
 const BlogIndex = ({ data }) => {
-  const posts = data.allMarkdownRemark.nodes
+  const posts = data.allMarkdownRemark.nodes;
   const tags = _.sortBy(data.allMarkdownRemark.group, ["totalCount"]).reverse()
 
   if (posts.length === 0) {
@@ -38,7 +38,7 @@ const BlogIndex = ({ data }) => {
   )
 }
 
-export default BlogIndex
+export default BlogIndex;
 
 export const pageQuery = graphql`
   query {

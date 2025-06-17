@@ -1,23 +1,13 @@
 module.exports = {
-  title: "hoodie",
-  description: "Hello :) I'm Hudi who developed gatsby-starter-hoodie theme.",
-  author: "Hudi",
+  title: "Muneo",
+  description: "안녕하세요, Muneo 기술 블로그입니다.",
+  author: "Muneo",
   siteUrl: "https://devhudi.github.io/gatsby-starter-hoodie/",
   links: {
-    github: "https://github.com/devHudi",
-    linkedIn: "https://linkedin.com",
-    facebook: "https://www.facebook.com",
-    twitter: "https://twitter.com",
-    x: "https://x.com",
-    instagram: "https://www.instagram.com",
-    medium: "https://medium.com",
-    blogger: "https://blogger.com",
-    email: "mailto:devhudi@gmail.com",
-    resume: "https://hudi.blog",
-    link: "https://hudi.blog",
+    github: "https://github.com/if-muneo/muneo-be"
   },
   useAbout: true,
-  // See https://giscus.app/
+
   giscus: {
     repo: "devHudi/gatsby-starter-hoodie",
     repoId: "MDEwOlJlcG9zaXRvcnkzNjk4NjMzNTg=",
