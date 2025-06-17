@@ -1,7 +1,7 @@
 ---
 title: "잘가라 민수"
 date: "2025-05-02"
-description: "테스트용입니다"
+description: "잘가라 민수"
 tags: []
 ---
 
