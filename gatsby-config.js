@@ -4,10 +4,10 @@ const { title, description, author, siteUrl } = blogConfig
 module.exports = {
   pathPrefix: "/muneo-tech",
   siteMetadata: {
-    title,
-    description,
-    author,
-    siteUrl,
+    title: `muneo-tech`,
+    description: `muneo 기술 블로그`,
+    author: `@if-muneo`,
+    siteUrl: "https://if-muneo.github.io/muneo-tech",
   },
   plugins: [
     `gatsby-plugin-catch-links`,
