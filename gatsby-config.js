@@ -7,7 +7,7 @@ module.exports = {
     title: `muneo-tech`,
     description: `muneo 기술 블로그`,
     author: `@if-muneo`,
-    siteUrl: "https://if-muneo.github.io/muneo-tech",
+    siteUrl: "https://if-muneo.github.io",
   },
   plugins: [
     `gatsby-plugin-catch-links`,
