@@ -1,7 +1,7 @@
 ---
-title: "무너라면 HTTPS 적용기 - Nginx를 활용한" // 제목
-date: "2025-06-27" // 작성 날짜
-description: "" // 설명
+title: "무너라면 HTTPS 적용기 - Nginx를 활용한"
+date: "2025-06-27" 
+description: "무너라면 SSL 인증서 발급을 통한 HTTPS 적용과정입니당"
 tags: [] // 태그
 ---
 
